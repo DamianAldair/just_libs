@@ -1,8 +1,8 @@
 name: just_libs
 description: A package that compiles JustTransitions and JustEasyWidgets in one package.
 version: 0.0.1
-homepage:
-repository:
+homepage: https://github.com/DamianAldair/just_libs
+repository: https://github.com/DamianAldair/just_libs
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
